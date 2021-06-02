@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rtntdeck
-- 👀 I’m interested in FinTech, Big Data, Data Strategy, Business Strategy and Execution, Capital Markets
+- 👀 I’m interested in FinTech, Big Data, Data Strategy, Business Strategy and Execution, Capital Markets, Data Governance
 - 🌱 I’m currently learning Laravel, R, Python, NLP
 
 <!---
