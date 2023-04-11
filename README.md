@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rtntdeck
-- 👀 I’m interested in FinTech, Big Data, Data Strategy, Business Strategy and Execution, Capital Markets, Data Governance
-- 🌱 I’m currently learning Laravel, R, Python, NLP
+- 👀 I’m interested in FinServ, FinTech, Big Data, Data Strategy, Business Strategy and Execution, Capital Markets, Data Governance
+- 🌱 I’m currently using Laravel, R, Python, Go, NLP
 
 <!---
 rtntdeck/rtntdeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
